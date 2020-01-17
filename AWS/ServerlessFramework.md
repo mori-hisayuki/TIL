@@ -1,6 +1,6 @@
 
 
-## 自分のアカウントにLambdadeploy
+## 自分のアカウントにLambdaのdeploy
 ### deploy
 ```
 yarn sls deploy --aws-profile <profile>
